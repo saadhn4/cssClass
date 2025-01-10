@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+p {
+  color: blue;
+}
+
+@media (max-width: 600px) {
+  .box {
+    height: 50px;
+    width: 50px;
+    background-color: orange;
+    border-radius: 50%;
+  }
+  p {
+    color: red;
+  }
+}
+
+/* if the max width is 600 or below it will turn orange */

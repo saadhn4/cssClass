@@ -1,0 +1,3 @@
+media.css contains the responsive sizes for all devices so use that at the end of your project
+
+reference to this is media.html to see how it works

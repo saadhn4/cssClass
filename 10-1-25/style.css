@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.one {
+  margin: 20px;
+  background-color: lawngreen;
+}
+
+.two {
+  margin-left: 5px;
+  padding: 0px;
+  background-color: lightblue;
+}
+
+.three {
+  padding: 15px;
+  background-color: lightblue;
+}

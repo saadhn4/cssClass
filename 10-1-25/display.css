@@ -1,0 +1,14 @@
+.one {
+  display: block;
+  background-color: yellow;
+}
+
+.two {
+  display: inline;
+  background-color: pink;
+}
+
+.three {
+  display: inline-block;
+  background-color: lightcoral;
+}
